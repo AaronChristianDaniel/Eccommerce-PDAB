@@ -59,15 +59,6 @@ Load Data → EDA → Preprocessing → Oversampling → Split & Scale → Optim
 
 ---
 
-## 🔧 Teknologi
-
-- Python 3.x
-- pandas, numpy
-- scikit-learn
-- matplotlib, seaborn
-
----
-
 ## 🚀 Cara Menjalankan
 
 1. Clone repo ini:
@@ -90,13 +81,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 Model KNN dioptimasi dengan mencari nilai K terbaik (K=1–20), dievaluasi menggunakan accuracy, precision, recall, F1-score, dan confusion matrix.
 
 ---
-
-## 🔍 Potensi Pengembangan
-
-- Mencoba algoritma lain (Random Forest, XGBoost) untuk perbandingan
-- Feature importance analysis
-- Hyperparameter tuning dengan cross-validation
-
 ---
 
 ## 👤 Author
